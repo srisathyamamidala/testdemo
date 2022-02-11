@@ -1,0 +1,13 @@
+appdirs
+click
+dj-database-url
+Django
+djangorestframework
+gunicorn
+packaging
+psycopg2
+pyparsing
+python-dotenv
+pytz
+six
+whitenoise
